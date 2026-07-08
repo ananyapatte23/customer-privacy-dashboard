@@ -1,0 +1,6 @@
+{
+  "name": "Customer Privacy Dashboard",
+  "description": "An elegant, Apple-inspired customer privacy portal to securely search, view, manage marketing consent, and request deletion of personal customer data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
